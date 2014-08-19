@@ -1,3 +1,7 @@
 # Browserifying express
 ==============================
-Express app
+Set up
+-----------
+npm init
+npm install express
+run with node server.js
